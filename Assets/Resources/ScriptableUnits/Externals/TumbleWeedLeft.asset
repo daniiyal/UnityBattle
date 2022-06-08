@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce851d7322840d049a1d4eb3ae60bde4, type: 3}
+  m_Name: TumbleWeedLeft
+  m_EditorClassIdentifier: 
+  Faction: 0
+  _stats:
+    Health: 150
+    MaxHealth: 150
+    Defence: 50
+    AttackPower: 0
+    AttackRange: 0
+    Chance: 0
+    TravelDistance: 1
+    Cost: 300
+  UnitPrefab: {fileID: 1500219146128548, guid: ce9eabb3a091c20409d10b932697c6e0, type: 3}
+  UnitType: 5
